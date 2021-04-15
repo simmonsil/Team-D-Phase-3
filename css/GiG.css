@@ -6,6 +6,7 @@
 */
 body {
     margin: 0;
+    font-family: Bahnschrift, Arial, sans-serif;
 }
 nav {
     display: block;
@@ -38,5 +39,33 @@ nav a.pages {
 
 nav a:hover.pages {
     background-color: #00462F;
+}
+
+h1, h2 {
+    font-family: Bahnschrift, Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Bahnschrift, Arial, sans-serif;
+}
+
+div.aboutUsArticle {
+    width: 650px;
+    border: 2px solid #0E7453;
+    padding: 10px;
+    margin: 40px;
+    box-shadow: 7px 12px 8px #888888;
+    float: left;
+}
+
+img.aboutUsImage {
+    width: 650px;
+    margin: 40px;
+    box-shadow: 7px 12px 8px #888888;
+}
+
+div.floatRight {
+    float: right;
 }
 
