@@ -50,11 +50,16 @@ p {
     font-family: Bahnschrift, Arial, sans-serif;
 }
 
+div.container {
+    margin: 0 auto;
+    width: 800px;
+}
 div.shopItem {
     width: 200px;
     margin: 40px;
     padding: 10px;
     border: 4px solid #0E7453;
+    float: left;
 }
 
 img.shopItem {
