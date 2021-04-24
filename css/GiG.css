@@ -135,6 +135,29 @@ img.aboutUsImage {
     box-shadow: 7px 12px 8px #888888;
 }
 
+div.plantCareCont {
+    margin: 0 auto;
+    min-width: 800px;
+    max-width: 1300px;
+}
+
+div.plantCareCont h1 {
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: #005F40;
+}
+
+div.plantCare {
+    width: 400px;
+    padding: 10px;
+    float: left;
+}
+
+img.plantCare {
+    width: 200px;
+    box-shadow: 7px 12px 8px #888888;
+}
 
 footer {
 
